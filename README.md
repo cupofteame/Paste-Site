@@ -1,2 +1,1 @@
-Legit just made a paste site
-- disabled developer tools haha
+Made a simple paste site, developer tools are disabled
